@@ -12,8 +12,3 @@
 ---
 
 **Note:** This is a minimal cs2 esp implementation in pure C, so beginners can use this as a starting point. It's not meant to be undetected since it uses a very simple method to read the games memory.
-
-
-### Showcase
-
-![Showcase](showcase.mp4)
