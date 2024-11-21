@@ -1,3 +1,5 @@
+![Showcase](showcase/image.png)
+
 ### Usage
 
 1. **Compile the project**  
