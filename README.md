@@ -5,7 +5,7 @@
 1. **Compile the project**  
    - Install Visual Studio.  
    - Open the `.sln` file.  
-   - Run the file or click on **Build** and select **Build Solution**.
+   - Click on **Build** and select **Build Solution**.
 
 2. **Run the program and adjust CS2 settings**  
    - Run the generated `.exe` file and launch CS2.  
