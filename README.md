@@ -28,7 +28,7 @@
 How to update the offsets:
 
 Go to this [UnknownCheats thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/600259-cs2-external-esp.html) and find the latest offsets posted by the community
-Or go to the [cs2-dumper](https://github.com/a2x/cs2-dumper) repository and find the latest offsets.
+or go to the [cs2-dumper](https://github.com/a2x/cs2-dumper) repository and find the latest offsets.
 
 ---
 
