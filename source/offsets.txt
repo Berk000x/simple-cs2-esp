@@ -1,4 +1,0 @@
-m_vOldOrigin=4900
-m_iHealth=836
-m_hPlayerPawn=2060
-m_iTeamNum=995
