@@ -23,12 +23,12 @@
 
 ### Manually Update
 
-* To manually update the ESP offsets I have included an offsets.txt file.
+To manually update the ESP offsets, I have included an `offsets.txt` file.
 
-How to update the offsets:
+#### Steps to update the offsets:
 
-Go to this [UnknownCheats thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/600259-cs2-external-esp.html) and find the latest offsets posted by the community
-or go to the [cs2-dumper](https://github.com/a2x/cs2-dumper) repository and find the latest offsets.
+1. Visit the [UnknownCheats thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/600259-cs2-external-esp.html) to find the latest offsets posted by the community.
+2. You can also check the [cs2-dumper repository](https://github.com/a2x/cs2-dumper) to find the most recent offsets.
 
 ---
 
