@@ -21,7 +21,7 @@
 
 ---
 
-### ✔ Manually Update
+### Manually Update
 
 * To manually update the ESP offsets I have included an offsets.txt file.
 
