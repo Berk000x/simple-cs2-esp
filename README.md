@@ -1,6 +1,6 @@
 ![Showcase](showcase/image.png)
 
-### Usage
+### ⚙️ Usage
 
 1. **Compile the project**  
    - Install Visual Studio.  
@@ -13,7 +13,7 @@
 
 ---
 
-### Troubleshooting
+### 🛠️ Troubleshooting
 
 - If you experience FPS drops, higher the esp delay from `main.c`.  
 - If you experience flickering, restart your PC.  
@@ -21,7 +21,7 @@
 
 ---
 
-### Manually Update
+### 🔄 Manually Update
 
 To manually update the ESP offsets, I have included an `offsets.txt` file.
 
