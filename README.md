@@ -21,4 +21,15 @@
 
 ---
 
+### ✔ Manually Update
+
+* To manually update the ESP offsets I have included an offsets.txt file.
+
+How to update the offsets:
+
+Go to this [UnknownCheats thread](https://www.unknowncheats.me/forum/counter-strike-2-releases/600259-cs2-external-esp.html) and find the latest offsets posted by the community
+Or go to the [cs2-dumper](https://github.com/a2x/cs2-dumper) repository and find the latest offsets.
+
+---
+
 **Note:** This is a minimal cs2 esp implementation in pure C, so beginners can use this as a starting point. It's not meant to be undetected since it uses a very simple method to read the games memory.
